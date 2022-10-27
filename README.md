@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Heitor Souza</h1>
 
 - 🎓 Computer Engineering Student at **[UFSCar](https://www.ufscar.br)**
-- 🔭 I’m currently working with **Industrial Controls & Automation**
-- 🌱 I’m currently learning about **Data Science, Data Visualization and ML**
 - 😄 Pronouns: He/Him
 
 <h3 align="left">Connect with me:</h3>
