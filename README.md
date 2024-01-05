@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Heitor Souza</h1>
 
-- 🎓 Computer Engineering Student at **[UFSCar](https://www.ufscar.br)**
+- 🎓 Computer Engineer **[UFSCar](https://www.ufscar.br)**
 - 🔭 I’m currently working on Industrial Automation
 - 🌱 I’m currently learning Computer Vision techniques
 - ⚡ Fun fact: I'm a huge gym nerd
